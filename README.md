@@ -18,7 +18,8 @@ En mi tiempo libre, estoy empezando a meterme en el mundo de la Ciencia de Datos
 ---
 
 #### Mis ultimas contribuciones
-- 🆕 [COVID 19 - Grupos de edad | CABA](https://github.com/santiagolator/data_analytics/tree/master/R/practica/covid-19/grupo_edad)
+- 🆕 [Movilidad local sobre el COVID 19](https://github.com/santiagolator/data_analytics/tree/master/R/practica/covid-19/mobility_report)
+- 😷 [COVID 19 - Grupos de edad | CABA](https://github.com/santiagolator/data_analytics/tree/master/R/practica/covid-19/grupo_edad)
 - 😷 [COVID 19 - Heatmap| CABA](https://github.com/santiagolator/data_analytics/tree/master/R/practica/covid-19/heatmap)
 - ♀️ [Trabajo no remunerado y brecha salarial](https://github.com/santiagolator/data_analytics/tree/master/R/shinny_apps/proyecto-final-EANT)
 - 😷 [Casos COVID 19 | CABA](https://github.com/santiagolator/data_analytics/tree/master/R/practica/covid-19/patchwork)
