@@ -24,7 +24,8 @@ En mi tiempo libre, estoy empezando a meterme en el mundo de la Ciencia de Datos
 - ♀️ [Trabajo no remunerado y brecha salarial](https://github.com/santiagolator/data_analytics/tree/master/R/shinny_apps/proyecto-final-EANT)
 - 😷 [Casos COVID 19 | CABA](https://github.com/santiagolator/data_analytics/tree/master/R/practica/covid-19/patchwork)
 
-
+#### Mis publicaciones
+- Como publicar una Shinyapp — 101 - [Medium](https://medium.com/@santiago.lator/como-publicar-una-shinyapp-101-3889c1b22bee) / [RPubs](https://rpubs.com/santiago_lator/publicar-shiny-101)
 ---
 
 [![Santiago's github stats](https://github-readme-stats.vercel.app/api?username=santiagolator&count_private=true)](https://github.com/santiagolator) 
