@@ -1,7 +1,7 @@
 ### Hola 👋, mi nombre es Santiago Lator
 #### Data Scientist en formacion :)
 
-Actualmente soy Analista de System Management y Gestor de Problemas en Claro Argentina, donde administro plataformas como Elasticsearch, Dynatrace, Metabase, OMi.
+Actualmente soy *Ingeniero de Soluciones* en **BGH Tech Partner** trabajando a nivel post venta y anteriormente me desempeñé como *Analista de System Management y Gestor de Problemas* en **Claro Argentina**, donde administraba plataformas como Elasticsearch, Dynatrace, Metabase, OMi.
 
 En mi tiempo libre, estoy empezando a meterme en el mundo de la Ciencia de Datos. 
 
