@@ -1,16 +1,14 @@
-### Hola 👋, mi nombre es Santiago Lator
-#### Data Scientist en formacion :)
+### Hola 👋, mi nombre es Santiago Lator Arias.
 
-Actualmente soy *Ingeniero de Soluciones* en **BGH Tech Partner** trabajando a nivel post venta y anteriormente me desempeñé como *Analista de System Management y Gestor de Problemas* en **Claro Argentina**, donde administraba plataformas como Elasticsearch, Dynatrace, Metabase, OMi.
+Actualmente soy *SR AppDynamics Consultant* en **MajorKey Technologies**, trabajando a nivel post venta implementando y desarrollando soluciones APM. Anteriormente me desempeñé como *Team Leader* del equipo de Monitoring & Observability en **BGH Tech Partner** y como *Analista de System Management* y *Gestor de Problemas* en **Claro Argentina**.
 
-En mi tiempo libre, estoy empezando a meterme en el mundo de la Ciencia de Datos. 
+En mi tiempo libre, estoy empezando a meterme en el mundo de la Ciencia de Datos de la mano de R y estoy indagando en eso que llaman "DevOps" 🤓
 
-**Skills:** SQL / Elasticsearch / Bash scripting / HTML / R 
+**Skills**: SQL / Elasticsearch / APM / Bash scripting / HTML + JS + CSS / R
 
-- 🌱 Actualmente estoy aprendiendo R 
-- 💬 Podes preguntarme sobre Elasticsearch 🙂
-- 📫 Para contactarme:
-  [santiago.lator@gmail.com](mailto://santiago.lator@gmail.com) | tw: [@SantiagoLator](https://twitter.com/https://twitter.com/SantiagoLator)
+- 🌱 Actualmente estoy aprendiendo R, Python y chino mandarin.
+- 💬 Podes preguntarme sobre Elasticsearch, Appdynamics, Monitoring & Observability 🙂
+- 📫 Para contactarme: [santiago.lator@gmail.com](mailto://santiago.lator@gmail.com) | [slator@majorkeytech.com](mailto://slator@majorkeytech.com)
 - 👷🏼 [Mi perfil laboral](https://www.linkedin.com/in/santiago-lator-arias-291879153//)
 
 [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
