@@ -25,6 +25,9 @@ En mi tiempo libre, estoy empezando a meterme en el mundo de la Ciencia de Datos
 
 #### Mis publicaciones
 - Como publicar una Shinyapp — 101 - [Medium](https://medium.com/@santiago.lator/como-publicar-una-shinyapp-101-3889c1b22bee) / [RPubs](https://rpubs.com/santiago_lator/publicar-shiny-101)
+
+#### Charlas y presentaciones
+- [Integrando nuestro toolbox: [Caso de uso] Elastic y AppDynamics - Comunidad de Elastic Argentina](https://github.com/santiagolator/charla_elk-appdynamics)
 ---
 
 [![Santiago's github stats](https://github-readme-stats.vercel.app/api?username=santiagolator&count_private=true)](https://github.com/santiagolator) 
