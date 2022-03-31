@@ -8,8 +8,8 @@ En mi tiempo libre, estoy empezando a meterme en el mundo de la Ciencia de Datos
 
 - 🌱 Actualmente estoy aprendiendo R, Python y chino mandarin.
 - 💬 Podes preguntarme sobre Elasticsearch, Appdynamics, Monitoring & Observability 🙂
-- 📫 Para contactarme: [santiago.lator@gmail.com](mailto://santiago.lator@gmail.com) | [slator@majorkeytech.com](mailto://slator@majorkeytech.com)
-- 👷🏼 [Mi perfil laboral](https://www.linkedin.com/in/santiago-lator-arias-291879153//)
+- 📫 Para contactarme: [santiago.lator@gmail.com](mailto://santiago.lator@gmail.com)
+- 👷🏼 [Mi perfil laboral](https://www.linkedin.com/in/santiago-lator/)
 - 📜 [Mi CV](https://flowcv.me/santiago-lator)
 
 [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
