@@ -1,6 +1,7 @@
 ### Hola 👋, mi nombre es Santiago Lator Arias.
 
-Actualmente soy *SR Consultant* en **MajorKey Technologies**, trabajando a nivel post venta implementando y desarrollando soluciones APM. Anteriormente me desempeñé como *Team Leader* del equipo de Monitoring & Observability en **BGH Tech Partner** y como *Analista de System Management* y *Gestor de Problemas* en **Claro Argentina**.
+Actualmente soy *Cloud Observability Engineer* en **Global Processing** como parte del equipo de Arquitectura IT, liderando el diseño e implementacion de la estrategia de monitoreo y observabilidad de la compañia.
+Anteriormente me desempeñé como *SR Consultant* en **MajorKey Technologies**, *Team Leader* del equipo de Monitoring & Observability en **BGH Tech Partner** y como *Analista de System Management* y *Gestor de Problemas* en **Claro Argentina**.
 
 En mi tiempo libre, estoy empezando a meterme en el mundo de la Ciencia de Datos de la mano de R y estoy indagando en eso que llaman "DevOps" 🤓
 
